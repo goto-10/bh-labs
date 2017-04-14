@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        watchlist-imdb-info
+// @name        Watchlist IMDB info
 // @namespace   bH
 // @description Megfigyelt torrenteknél megjeleníti az imdb infókat.
 // @include     https://bithumen.be/watchlist.php*

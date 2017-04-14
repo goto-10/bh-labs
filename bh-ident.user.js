@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           bHident
+// @name           bH ident
 // @description    Identicon bH (alap) avatarok helyett
 // @version        1.03
 // @author         Vector

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Komment addon
+// @name           Komment Addon
 // @version        0.3.5
 // @author         Vector
 // @namespace      bH

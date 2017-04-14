@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           inbox filter
+// @name           Inbox filter
 // @version        1.1.6
 // @author         Vector
 // @namespace      bH

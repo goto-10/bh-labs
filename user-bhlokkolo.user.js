@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        user bHlokkoló
+// @name        User bHlokkoló
 // @namespace   bH
 // @version     0.0.6
 // @author      Vector

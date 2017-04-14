@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        anticsillagozó
+// @name        Anticsillagozó
 // @namespace   bH
 // @description IMDB link alapján elrejti a nem kívánatos torrenteket.
 // @version     0.0.5
